@@ -12,7 +12,7 @@ const images = [
   },
   {
     src: 'https://picsum.photos/id/1015/600/400',
-    alt: 'Towering Moutains With Lake In Centre'
+    alt: 'Towering Mountains With Lake In Centre'
   },
   {
     src: 'https://picsum.photos/id/1020/600/400',
